@@ -72,16 +72,6 @@ I just like writing code 😂
 
 ---
 
-## 🎨 Profile Views
-
-<div align="center">
-  
-  ![Profile Views](https://visitcount.itsvg.in/api?id=Ccleveland09ner&icon=6&color=0)
-  
-</div>
-
----
-
 <div align="center">
   
   ### 🌟 Thanks for visiting my profile!
