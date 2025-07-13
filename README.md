@@ -52,11 +52,11 @@ I just like writing code 😂
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ccleveland09ner&theme=radical&hide_border=true&show_icons=true&include_all_commits=false&count_private=false)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ccleveland09ner)](https://github.com/Ccleveland09ner/github-readme-stats)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccleveland09ner&theme=radical&hide_border=true&layout=compact)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Ccleveland09ner&theme=radical&hide_border=true)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ccleveland09ner&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
