@@ -52,7 +52,7 @@ I just like writing code 😂
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ccleveland09ner)](https://github.com/Ccleveland09ner/github-readme-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ccleveland09ner&theme=dark)]
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccleveland09ner&theme=radical&hide_border=true&layout=compact)
   
